@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Ronaldo Henao Villarreal</h1>
-<h3 align="center">A full-stack developer from Colombia. Passionate to games and some coffe</h3>
+<h3 align="center">A full-stack developer from Colombia. Passionate to games and some coffee</h3>
 
 - 🌱 I’m currently learning **Maven, Primefaces, java**
 
