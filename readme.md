@@ -25,7 +25,7 @@
 comandos maven
 
 ```
-maven package
+mvn package
 ```
 
 ```
