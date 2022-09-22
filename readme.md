@@ -29,7 +29,7 @@ mvn package
 ```
 
 ```
-mvn archetype:generate -DgroupId=edu.escuelaing.arep -DartifactId=app -DarchetypeArtifactId=mavenarchetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=edu.escuelaing.arep -DartifactId=app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 
 ```
